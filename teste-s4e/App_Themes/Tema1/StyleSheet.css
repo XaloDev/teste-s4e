@@ -1,0 +1,21 @@
+﻿body {
+    padding: 20px;
+    padding-top: 0;
+}
+
+.cadastro {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 20%;
+}
+
+.associados-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+}
+
+
+
